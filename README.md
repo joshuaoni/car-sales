@@ -1,7 +1,7 @@
 ## This project was made using React/Next.js
 
 ## Clone this repository 
-Clone this repository to your local computer and in your terminal run 
+Clone this repository to your local computer, and in your terminal run 
 ```bash
 npm run dev
 ``` 
@@ -20,7 +20,8 @@ in the root directory of the project.
 
 ## Jest And React Testing Library
 A few sample unit tests were created for some test cases. Tests were carried out using Jest and React testing library. ESlint was also employed for error checking/formatting.
-Test files can be found in <rootDir>/app/_tests/
+Test files can be found in <rootDir>/app/_tests.
+
 To run tests, in your terminal run
 ```bash
 npm t
