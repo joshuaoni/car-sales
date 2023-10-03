@@ -6,7 +6,7 @@ module.exports = {
   "extends": [
     "eslint:recommended",
     "plugin:react/recommended",
-    "plugin:@next/next/recommended" // add line and install --save-dev
+    "plugin:@next/next/recommended"
   ],
   "overrides": [
     {
