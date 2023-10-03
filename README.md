@@ -14,7 +14,7 @@ Reducers were used to manage state.
 ## JSON Mock Data
 Property details are gotten from mock data in JSON file which can be found in <rootDir>/app/_data. To start the server, in your terminal run
 ```bash
-json-server --watch --port 8000 ./app/_data/db.json
+json-server --watch --port 4000 ./app/_data/db.json
 ``` 
 in the root directory of the project.
 
