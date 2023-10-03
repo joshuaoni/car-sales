@@ -1,4 +1,4 @@
-import { CarsComponent, Navbar, PaginationComponent } from '@/app/_components';
+import { CarsComponent, Navbar, PaginationComponent } from '../../_components';
 import styles from '../../page.module.css';
 import { notFound } from 'next/navigation';
 
