@@ -1,0 +1,108 @@
+.card {
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  background: #f1f4fb;
+  padding: 10px;
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.name {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.name h4 {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.name p {
+  border-radius: 15px;
+  padding: 5px 15px;
+  border: 2px dotted #4b9ae8;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.details {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.details > div {
+  display: flex;
+  align-items: center;
+  color: #4b9ae8;
+  margin: 10px 0;
+}
+
+.details > div p {
+  color: black;
+  margin-left: 5px;
+}
+
+.bottom_content {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+
+.price {
+  font-size: 30px;
+}
+
+.price + div {
+  display: flex;
+}
+
+.price span {
+  font-size: 16px;
+}
+
+.like {
+  background: #dbeafb;
+  border-radius: 15px;
+  color: #4b9ae8;
+  height: 44px;
+  width: 44px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.like:hover {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.btn {
+  background: #4b9ae8;
+  color: white;
+  border-radius: 15px;
+  padding: 8px 15px;
+  margin-left: 15px;
+  box-shadow: none;
+  font-size: 14px;
+  height: max-content;
+  text-transform: none;
+  font-weight: 600;
+}
+
+.btn:hover {
+  background: #4b9ae8;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.image {
+  border-radius: 15px;
+  width: 100%;
+  height: auto;
+}

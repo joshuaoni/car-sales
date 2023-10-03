@@ -1,0 +1,169 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "name": "Toyota Corolla",
+      "year": "2022",
+      "capacity": "4 People",
+      "fuel": "gas",
+      "rating": "6.1km/1-litre",
+      "type": "Automatic",
+      "image": "/3.jpg",
+      "price": "550"
+    },
+    {
+      "id": "2",
+      "name": "Lamborghini Urus",
+      "year": "2022",
+      "capacity": "3 People",
+      "fuel": "electricity",
+      "rating": "6.1km/1-litre",
+      "type": "Automatic",
+      "image": "/2.jpg",
+      "price": "440"
+    },
+    {
+      "id": "3",
+      "name": "Toyota Camry",
+      "year": "2021",
+      "capacity": "4 People",
+      "fuel": "gas",
+      "rating": "6.1km/1-litre",
+      "type": "Automatic",
+      "image": "/6.jpg",
+      "price": "440"
+    },
+    {
+      "id": "4",
+      "name": "Ferrari F8",
+      "year": "2022",
+      "capacity": "4 People",
+      "fuel": "gas",
+      "rating": "6.1km/1-litre",
+      "type": "Automatic",
+      "image": "/4.jpg",
+      "price": "440"
+    },
+    {
+      "id": "5",
+      "name": "Audi U3",
+      "year": "2022",
+      "capacity": "4 People",
+      "fuel": "gas",
+      "rating": "6.1km/1-litre",
+      "type": "Automatic",
+      "image": "/5.jpg",
+      "price": "80"
+    },
+    {
+      "id": "6",
+      "name": "Jeep XS55",
+      "year": "2023",
+      "capacity": "4 People",
+      "fuel": "gas",
+      "rating": "6.1km/1-litre",
+      "type": "Manual",
+      "image": "/1.jpg",
+      "price": "540"
+    },
+    {
+      "id": "7",
+      "name": "Tesla 36",
+      "year": "2022",
+      "capacity": "4 People",
+      "fuel": "gas",
+      "rating": "6.1km/1-litre",
+      "type": "Automatic",
+      "image": "/7.jpg",
+      "price": "440"
+    },
+    {
+      "id": "8",
+      "name": "Porsche X5",
+      "year": "2022",
+      "capacity": "4 People",
+      "fuel": "gas",
+      "rating": "6.1km/1-litre",
+      "type": "Automatic",
+      "image": "/8.jpg",
+      "price": "440"
+    },
+    {
+      "id": "9",
+      "name": "Subaru 259",
+      "year": "2022",
+      "capacity": "4 People",
+      "fuel": "gas",
+      "rating": "6.1km/1-litre",
+      "type": "Automatic",
+      "image": "/9.jpg",
+      "price": "440"
+    },
+    {
+      "id": "10",
+      "name": "Porsche CC",
+      "year": "2022",
+      "capacity": "4 People",
+      "fuel": "gas",
+      "rating": "6.1km/1-litre",
+      "type": "Automatic",
+      "image": "/1.jpg",
+      "price": "440"
+    },
+    {
+      "id": "11",
+      "name": "Mustang",
+      "year": "2022",
+      "capacity": "4 People",
+      "fuel": "gas",
+      "rating": "6.1km/1-litre",
+      "type": "Automatic",
+      "image": "/2.jpg",
+      "price": "440"
+    },
+    {
+      "id": "12",
+      "name": "BMW Series",
+      "year": "2022",
+      "capacity": "4 People",
+      "fuel": "gas",
+      "rating": "6.1km/1-litre",
+      "type": "Automatic",
+      "image": "/3.jpg",
+      "price": "440"
+    },
+    {
+      "id": "13",
+      "name": "Nissan Range",
+      "year": "2022",
+      "capacity": "4 People",
+      "fuel": "gas",
+      "rating": "6.1km/1-litre",
+      "type": "Automatic",
+      "image": "/4.jpg",
+      "price": "440"
+    },
+    {
+      "id": "14",
+      "name": "Audi 5000",
+      "year": "2022",
+      "capacity": "4 People",
+      "fuel": "gas",
+      "rating": "6.1km/1-litre",
+      "type": "Automatic",
+      "image": "/5.jpg",
+      "price": "440"
+    },
+    {
+      "id": "15",
+      "name": "Porsche",
+      "year": "2022",
+      "capacity": "4 People",
+      "fuel": "gas",
+      "rating": "6.1km/1-litre",
+      "type": "Automatic",
+      "image": "/6.jpg",
+      "price": "440"
+    }
+  ]
+}
